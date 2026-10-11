@@ -1,6 +1,6 @@
 # mouse-wrap
 
-**MouseWrap** is a lightweight, cross-platform utility that enables seamless mouse cursor wrapping around screen edges - similar to multi-monitor "toroidal" behavior, but on a single display.
+**mouse-wrap** is a lightweight, cross-platform utility that enables seamless mouse cursor wrapping around screen edges - similar to multi-monitor "toroidal" behavior, but on a single display.
 
 When the cursor reaches any edge of the screen (within a configurable buffer zone), it instantly teleports to the opposite side, creating a continuous/wrapping desktop experience.
 
@@ -22,8 +22,8 @@ When the cursor reaches any edge of the screen (within a configurable buffer zon
 
 ```bash
 # Clone the repository
-git clone https://github.com/mochensky/MouseWrap.git
-cd MouseWrap
+git clone https://github.com/mochensky/mouse-wrap.git
+cd mouse-wrap
 
 # Build release version
 cargo build --release
