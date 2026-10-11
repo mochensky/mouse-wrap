@@ -1,4 +1,4 @@
-# MouseWrap
+# mouse-wrap
 
 **MouseWrap** is a lightweight, cross-platform utility that enables seamless mouse cursor wrapping around screen edges - similar to multi-monitor "toroidal" behavior, but on a single display.
 
